@@ -35,11 +35,11 @@ header {
 }
 
 .container-foto {
-    height: 500px;
-    display: flex;
+height: 362px;
 }
 
 /* le foto sono di rapporto diverse ma ho provato a farle mezze responsive per la dimesnione dello schermo senza che vadano a capo  */
+
 .foto1 {
     display: inline-block;
     background-image: url(../img/tim-1.jpg);
@@ -57,4 +57,31 @@ header {
     width: 45%;
     height: 100%;
     background-repeat: no-repeat;
+}
+
+.paragrafo {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: blue;
+    color: white;
+}
+
+.row-25 {
+    width: 25%;
+}
+
+.colorrow {
+    background-color: #4ea0ff;
+}
+
+th {
+    text-align: left;
 }
