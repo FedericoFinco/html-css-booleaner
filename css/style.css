@@ -1,0 +1,14 @@
+header {
+    background-image:url(../img/pattern.png);
+    background-repeat: repeat;
+    background-color: #4ea0ff;
+    height: 165px;
+    display:flex;
+    align-items:flex-end;
+}
+
+.logo {
+    height: 60%;
+    width: 18%;
+    margin-left: 1%;
+}
