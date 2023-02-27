@@ -12,3 +12,23 @@ header {
     width: 18%;
     margin-left: 1%;
 }
+
+.title {
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.grigini {
+    color: rgba(126, 122, 122, 0.836);
+    font-weight: bold;
+}
+
+.blue-highlight {
+    color: rgb(3, 148, 245);
+}
+
+.data {
+    font-size: 10px;
+}
